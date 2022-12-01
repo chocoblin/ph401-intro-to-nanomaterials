@@ -33,7 +33,7 @@ for i in range(1,100):
     y.append((den/num)*100)
 plt.plot(x,y)
 plt.xlabel('shell number')
-plt.ylabel('percent surface atoms')
+plt.ylabel('% surface atoms')
 plt.show()
 
 # Properties
